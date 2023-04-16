@@ -1,0 +1,10 @@
+body {
+  color: red;
+}
+
+.main-thing {
+  display: flex;
+  flex-direction: column;
+
+  font-size: larger;
+}
